@@ -68,7 +68,7 @@ This was build using following frameworks, libraries and softwares.
 ### Comparison between Different Models
 
 | Classifier  | Preprocessing | Confusion Matrix | Code |
-| --- | --- |--- | --- |--- |--- |
+| --- | --- |--- | --- |
 | Logistic Regression  | Splitting dataset, Feature Scaling  | [](images/logistic.png)| [Code](Models/logistic_regression.py)|
 | SVM  | Splitting dataset, Feature Scaling  | [](images/svm.png)| [Code](Models/svm.py)|
 | Kernel SVM  | Splitting dataset, Feature Scaling  | [](images/ksvm.png)| [Code](Models/kernel_svm.py)|
